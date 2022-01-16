@@ -1,3 +1,10 @@
 body{
     background-color: cadetblue;
 }
+html,
+body
+{
+    /*to make canvas full*/
+    margin:0;
+    padding:0;
+}
